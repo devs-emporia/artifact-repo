@@ -409,7 +409,7 @@
 		</includes>
 		<merge>true</merge>
 		<repositoryName>artifact-repo</repositoryName>
-		<repositoryOwner>jzendle-emporia</repositoryOwner>
+		<repositoryOwner>devs-emporia</repositoryOwner>
 		<server>github</server>
 	    </configuration>
 	    <executions>
